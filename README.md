@@ -1,4 +1,4 @@
-C'est un projet qui simule une chaîne de production de Noël automatisée, dans un cadre scolaire, on utilise ici différent design pattern.
+C'est un projet qui simule une chaîne de production de Noël automatisée, dans un cadre scolaire, on utilise ici différents design patterns.
 
 ---
 
@@ -17,4 +17,4 @@ On retrouve 6 patterns :
 
 ## Utilisation
 
-L'utilisation est simple. Il suffit de cloner le projet en local, d'avoir python d'installer sur votre machine et d'éxecuter le fichier principal Santa.py pour y suivre les instructions.
+L'utilisation est classique et intuitive. Il suffit de cloner le projet en local, d'avoir python d'installer sur votre machine et d'exécuter le fichier principal Santa.py pour y suivre les instructions.
